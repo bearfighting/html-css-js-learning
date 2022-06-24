@@ -28,3 +28,10 @@ a:link {
   background-color: transparent;
   text-decoration: none;
 }
+
+.content-container {
+  height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
